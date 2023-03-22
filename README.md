@@ -1,2 +1,5 @@
 # algebra-git
-Pozdrav svima :) Test 
+
+Pozdrav svima :) Test
+
+Pozdrav :)
